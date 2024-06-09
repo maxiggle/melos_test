@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apps/knot_demo/melos_knot_demo.iml" filepath="$PROJECT_DIR$/apps/knot_demo/melos_knot_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/knot_dependencies/melos_knot_dependencies.iml" filepath="$PROJECT_DIR$/packages/knot_dependencies/melos_knot_dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_variance.iml" filepath="$PROJECT_DIR$/melos_variance.iml" />
+    </modules>
+  </component>
+</project>
